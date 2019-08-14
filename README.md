@@ -18,12 +18,13 @@ Ruby 2.0+
     $ ruby crawler.rb http://www.dominio.com.br
 
 
-## Saída
+## Saídas
 
 
-     Saída via stdout do resultado
+     1 - Saída via stdout do resultado
+     
 
-     Geração arquivo JSON com resultado: response_crawler.json
+     2 - Geração arquivo JSON com resultado: response_crawler.json
 
 Uma lista de adjacências estendida em JSON. O objeto de nível superior é uma matriz, cada filho é um objeto que representa uma página. Cada página tem uma matriz de Links, CSS, JS e Imagens:
 
