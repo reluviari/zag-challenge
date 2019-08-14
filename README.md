@@ -22,7 +22,6 @@ Ruby 2.0+
 
 
      1 - Saída via stdout do resultado
-     
 
      2 - Geração arquivo JSON com resultado: response_crawler.json
 
@@ -58,4 +57,4 @@ Uma lista de adjacências estendida em JSON. O objeto de nível superior é uma 
 - Mapa do site mostra de que assets uma página depende
 - Mapa do site mostra links entre páginas
 - Saída via stdout do resultado
-- Geração arquivo JSON com resultado - `response_crawler.json`
+- Geração arquivo JSON com resultado: `response_crawler.json`
