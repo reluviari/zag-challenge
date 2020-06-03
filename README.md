@@ -1,8 +1,16 @@
 # Desafio Zag - Crawler
 
-Web crawler que percorre e armazena todos os links e assets de um domínio.
+<h1 align="center">
+  <strong>Zag - Challenge</strong>
+</h1> 
 
-Ruby 2.0+
+<p align="center">
+    Web crawler que percorre e armazena todos os links e assets de um domínio.
+</p> 
+
+## Versão Ruby
+
+    Ruby 2.0+
 
 ## Dependências 
 
