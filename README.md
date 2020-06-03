@@ -1,5 +1,3 @@
-# Desafio Zag - Crawler
-
 <h1 align="center">
   <strong>Zag - Challenge</strong>
 </h1> 
