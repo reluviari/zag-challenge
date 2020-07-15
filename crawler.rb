@@ -6,6 +6,7 @@ require 'nokogiri'
 
 class Crawler
   attr_reader :uri
+  # TESTE
 
   def self.cli(args, io = $stdout)
     if args.size != 1
